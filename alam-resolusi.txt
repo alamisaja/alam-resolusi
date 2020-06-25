@@ -1,4 +1,5 @@
 Alam Resolusi semester depan saat pandemi
 - konsisten belajar program minimal seminggu 2 kali 
-- membuat video tutorial untuk pembelajaran'
+- membuat video tutorial untuk pembelajaran
 - mengikuti kursus online
+- fokus belajar Git dan Github dan memaksimalkan Mac
