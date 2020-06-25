@@ -1,2 +1,2 @@
 # alam-resolusi
-Repositori untuk menyimpan kenangan
+Repositori untuk rencana semester depan selama pandemi 
